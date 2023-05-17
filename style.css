@@ -3,15 +3,16 @@ header{
 }
 .jumbo{
     min-height: 200px;
+    color: white;
 }
 .row{
-    height: 140px;
 }
 .contact{
     height: 140px;
 }
 footer{
     height: 100px;
+    color: white;
 }
 
 img{
