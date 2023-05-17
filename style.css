@@ -1,3 +1,15 @@
 header{
     height: 100px;
 }
+.jumbo{
+    height: 200px;
+}
+.row{
+    height: 140px;
+}
+.contact{
+    height: 140px;
+}
+footer{
+    height: 100px;
+}
