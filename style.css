@@ -1,5 +1,5 @@
 header{
-    min-height: 100px;
+    color: white;
 }
 .jumbo{
     min-height: 200px;
@@ -16,4 +16,7 @@ footer{
 
 img{
     width: 100%;
+}
+.content{
+    height: 300px;
 }
