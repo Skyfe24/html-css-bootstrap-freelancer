@@ -13,9 +13,7 @@ header{
 footer{
     height: 100px;
 }
-.content{
-    max-height: 100px;
-}
+
 img{
     width: 100%;
 }
