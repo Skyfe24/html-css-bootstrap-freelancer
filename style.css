@@ -21,3 +21,6 @@ img{
 .content{
     height: 300px;
 }
+.txt-right{
+    text-align: right;
+}
