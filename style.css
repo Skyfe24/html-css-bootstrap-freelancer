@@ -37,3 +37,18 @@ img{
 .whitey{
     background-color:white;
 }
+.hdr{
+    height: 80px;
+    line-height: 80px;
+}
+
+#contacts textarea{
+    width: 100%;
+    height: 200px;
+}
+
+#contacts .form-control{
+    border-radius: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+}
