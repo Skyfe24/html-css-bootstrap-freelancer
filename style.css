@@ -52,3 +52,11 @@ img{
     border: 0;
     border-bottom: 1px solid black;
 }
+.star{
+    font-size: 44px;
+    color: rgb(40, 27, 235);
+}
+.starw{
+    font-size: 44px;
+    color: white;
+}
